@@ -3,4 +3,4 @@ Code and CAD files for the Notre Dame Rocketry Team Communications Payload.  Ard
 
 ![alt tag](https://github.com/shane1027/NDRT-Comms-Payload/blob/master/Comms_CAD/Final_Payload.PNG)
 
-![alt tag](https://github.com/shane1027/NDRT-Comms-Payload/blob/master/Comms_CAD/Final_Payload.PNG)
+![alt tag](https://github.com/shane1027/NDRT-Comms-Payload/blob/master/Comms_CAD/Sketch_4.PNG)
